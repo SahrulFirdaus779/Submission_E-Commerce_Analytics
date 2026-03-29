@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis (Advanced)
 
-Proyek ini merupakan *submission* tugas akhir untuk mempelajari dasar-dasar ekstraksi data, transformasi, visualisasi, serta **analisis lanjutan (RFM & Manual Clustering)** menggunakan Python.
+Proyek ini merupakan *submission* tugas akhir kelas **DBS Foundation Dicoding** pada alur belajar (*learning path*) **Data Science**, khusus untuk penyelesaian modul **Belajar Fundamental Analisis Data**. Melalui proyek ini, dilakukan praktik ekstraksi data, transformasi, visualisasi, serta **analisis lanjutan (RFM & Manual Clustering)** menggunakan Python.
 
 ## Setup Lingkungan (Lokal)
 ```shell
