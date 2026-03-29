@@ -211,4 +211,4 @@ with tab4:
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: grey;'>Submission &copy; Sahrul Firdaus 2023</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: grey;'>Submission &copy; Sahrul Firdaus 2026</p>", unsafe_allow_html=True)

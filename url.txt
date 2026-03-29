@@ -1,4 +1,1 @@
-(GANTI TEKS INI DENGAN URL STREAMLIT CLOUD ANDA)
-
-Jika gagal deploy, jalankan secara lokal menggunakan:
-streamlit run dashboard/dashboard.py
+https://e-commerceanalytics.streamlit.app/
